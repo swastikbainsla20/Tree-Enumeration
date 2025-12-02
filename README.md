@@ -54,16 +54,6 @@ NumPy
 
 Streamlit
 
-📂 Folder Structure
-├── data/             # Dataset & labels
-├── models/           # Trained YOLO weights
-├── src/
-│   ├── train.py
-│   ├── infer.py
-│   ├── mask_generator.py
-│   └── visualize.py
-├── results/          # Metrics & plots
-└── app/              # Streamlit interface
 
 ▶️ How to Run
 Install dependencies
